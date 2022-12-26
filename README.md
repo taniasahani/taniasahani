@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning python
 - ✨Ask me about HTML,CSS,JS,PHP,MYSQl
 - 👨‍💻 [RESUME letter (3).pdf](https://github.com/taniasahani/taniasahani/files/10301687/RESUME.letter.3.pdf)
+  📄 my frontend project
 - 📫 How to reach me taniasahani2002@gmail.com
 
 <!---
